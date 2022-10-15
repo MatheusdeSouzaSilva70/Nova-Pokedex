@@ -1,9 +1,7 @@
 # Nova-Pokedex
-![README.md](  )
-![README.md](  )
+![README.md](https://github.com/MatheusdeSouzaSilva70/Nova-Pokedex/blob/main/img/img%20do%20projeto.png  )
 
-#### Novo projeto de Calculadora de imc  feito com JavaScript puro.
-#### Esse projeto monstra o percentual do seu imc mostrando se o usuario está com acima ou abixo da media de peso.
+#### Novo projeto de Pokedex feito com HTML,CSS,JAVASCRIT.
 
 ## Recursos
 - Responsivo 100%
